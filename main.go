@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"example-go-grpc-gateway/protogen/golang/orders"
-	"example-go-grpc-gateway/protogen/golang/product"
+	"github.com/musadhiekt/example-go-grpc-gateway/protogen/golang/orders"
+	"github.com/musadhiekt/example-go-grpc-gateway/protogen/golang/product"
 
 	"google.golang.org/genproto/googleapis/type/date"
 	"google.golang.org/protobuf/encoding/protojson"
